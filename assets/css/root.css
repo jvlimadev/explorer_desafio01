@@ -1,10 +1,19 @@
 :root {
-    --color-mainTitle: #3F3D56;
-    --color-span: #EE24FF;
     --color-description: #828282;
     --color-description-strong: #3F3D56;
     --color-line: #ECEFF2;
+    --color-mainTitle: #3F3D56;
+    --color-span: #EE24FF;
 
     --ff-body: 'Open Sans', sans-serif;
     --ff-mainTitle: 'Dosis', sans-serif;
+}
+
+body {
+    font-family: var(--ff-body);
+    line-height: 22px;
+    font-size: 15px;
+    font-weight: 400;
+
+    text-align: center;
 }

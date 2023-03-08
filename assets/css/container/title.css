@@ -1,0 +1,7 @@
+.main__title {
+    color: var(--color-mainTitle);
+    font-family: var(--ff-mainTitle);
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: 500;
+}
