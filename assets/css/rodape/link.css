@@ -1,0 +1,10 @@
+.footer__link {
+    color: var(--color-description-strong);
+    font-size: 17px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.footer__link + .footer__link {
+    margin-left: 42px;
+}

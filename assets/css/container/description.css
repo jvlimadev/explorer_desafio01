@@ -1,0 +1,19 @@
+.description {
+    color: var(--color-description);
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 22px;
+
+    width: 610px;
+    margin: 15px auto
+}
+
+strong {
+    color: var(--color-description-strong);
+    font-weight: bold;
+}
+
+.description:last-child {
+    margin: 32px auto 65px;
+    width:  auto;
+}
